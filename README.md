@@ -22,9 +22,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ####Trabalhos
 
-       Celular             |     Tablet
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
+![layout adaptável](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
 
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" style="max-width:100%;"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'>
 
