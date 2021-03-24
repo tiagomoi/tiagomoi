@@ -4,8 +4,8 @@
     
 </h1>
 
-### Hi there 👋, Meu nome is Tiago
-#### Desenvlvedor web
+### Hi there 👋 , Meu nome is Tiago
+#### Desenvolvedor web
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
@@ -26,7 +26,7 @@ Solarized dark             |  Solarized dark
 :-------------------------:|:-------------------------:
 ![](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
 
-alt='codepen' height='40'>](https://codepen.io/https://codepen.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](is.gd/tiagowebdesign)<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" style="max-width:100%;">  
+(https://codepen.io/https://codepen.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](is.gd/tiagowebdesign)<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" style="max-width:100%;">  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'>
 
