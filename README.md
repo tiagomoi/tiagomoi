@@ -26,5 +26,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ##Trabalhos
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)(https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)
+Solarized dark             |  Solarized dark
+:-------------------------:|:-------------------------:
+![](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
