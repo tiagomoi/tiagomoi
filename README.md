@@ -26,7 +26,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ##Trabalhos
 
-<img src="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif ">
-
-
-<img src="https://github.com/tiagomoi/tiagomoi/blob/main/2.gif">
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)(https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)
