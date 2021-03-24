@@ -24,4 +24,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&show_icons=true&theme=radical)
 
 ##Trabalhos
-<img src="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif "> <img src ="https:/ /github.com/tiagomoi/tiagomoi/blob/main/2.gif">
+<img src="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif ">
+<img src="https://github.com/tiagomoi/tiagomoi/blob/main/2.gif">
