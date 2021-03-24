@@ -25,4 +25,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### Trabalho
 
-![Apresentação pessoal](https://github.com/tiagomoi/tiagomoi/blob/main/WhatsApp%20Video%202021-03-17%20at%2012.23.10.mp4)
+![trabahos]<img src="https://github.com/tiagomoi/tiagomoi/blob/main/WhatsApp%20Video%202021-03-17%20at%2012.23.10.mp4">
