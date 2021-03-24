@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Meu nome is Tiago
 #### Apresentação pessoal
 ![Apresentação pessoal](https://tiagomoi.github.io/VCardeGourmet/images/profile/codigoqr1.jpeg)
