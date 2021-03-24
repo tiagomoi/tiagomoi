@@ -2,8 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
 ### 👋oi, Sou Tiago
 
 ![Apresentação pessoal](https://tiagomoi.github.io/VCardeGourmet/images/profile/codigoqr1.jpeg)
