@@ -3,10 +3,11 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>### Hi there 👋, Meu nome is Tiago
+</a>
+### 👋oi, Sou Tiago
 
 ![Apresentação pessoal](https://tiagomoi.github.io/VCardeGourmet/images/profile/codigoqr1.jpeg)
-### Apresentação pessoal
+### Apresentação  pessoal
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
