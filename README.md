@@ -24,4 +24,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&show_icons=true&theme=highcontrast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomoi&repo=github-readme-stats)]https://github.com/tiagomoi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagomoi&repo=github-readmestats)]https://github.com/tiagomoi/github-readme-stats)
