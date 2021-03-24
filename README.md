@@ -16,6 +16,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 😄 Pronouns: https://codepen.io/ 
 - ⚡ Fun fact: https://codepen.io/ 
 
+##Trabalhos
+
+Solarized dark             |  Solarized dark
+:-------------------------:|:-------------------------:
+![](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tiagomoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dimaggiotiago//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](is.gd/tiagowebdesign)  
 
@@ -24,8 +29,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&show_icons=true&theme=radical)
 
 
-##Trabalhos
 
-Solarized dark             |  Solarized dark
-:-------------------------:|:-------------------------:
-![](https://github.com/tiagomoi/tiagomoi/blob/main/1.gif)  |  ![](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
