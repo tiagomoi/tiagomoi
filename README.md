@@ -2,7 +2,7 @@
 
 ![Apresentação pessoal](https://tiagomoi.github.io/VCardeGourmet/images/profile/codigoqr1.jpeg)
 #### Apresentação pessoal
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files t
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
