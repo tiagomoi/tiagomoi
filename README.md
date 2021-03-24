@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://github.com/tiagomoi/tiagomoi/blob/main/capa.JPG" alt="codepain API" width="90%"/>
+    <img src="https://github.com/tiagomoi/tiagomoi/blob/main/capa.JPG" alt="codepain API" width="99%"/>
     <br>
-    Cartão de visita digital gourmetizado
+    
 </h1>
 
 ### Hi there 👋, Meu nome is Tiago
