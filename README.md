@@ -56,6 +56,12 @@ This project was developed live at [codepen.io/tiagomoi](https://codepen.io/tiag
 
 This project is under the MIT license. See the [LICENSE](https://github.com/tiagomoi/VCardeGourmet/blob/main/LICENSE) for more information.
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiagomoi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-moises-de-oliveira/)](https://www.linkedin.com/in/tiago-moises-de-oliveira/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/t_0liver4)](https://twitter.com/t_0liver4)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)](https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)
+
+
 ---
 
 Made with ♥ by Tiago Moises :wave: [Get in touch!](https://www.instagram.com/dimaggiotiago/)
