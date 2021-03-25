@@ -1,5 +1,5 @@
-[Curriculo HTML](https://tiagomoi.github.io/curriculo.io/)|
-[Pojeto Pronto](https://tiagomoi.github.io/VCardeGourmet/)
+✍🏼 [Curriculo HTML](https://tiagomoi.github.io/curriculo.io/)<br>
+👨🏼‍🏫[Pojeto Pronto](https://tiagomoi.github.io/VCardeGourmet/)
 <h1 align="center">
     <img src="https://github.com/tiagomoi/tiagomoi/blob/main/capa.JPG" alt="codepain API" width="100%"/>
     <br>
