@@ -1,9 +1,9 @@
-✍🏼 [Curriculo HTML](https://tiagomoi.github.io/curriculo.io/)<br>
+
 👨🏼‍🏫[Pojeto Pronto](https://tiagomoi.github.io/VCardeGourmet/)
 <h1 align="center">
     <img src="https://github.com/tiagomoi/tiagomoi/blob/main/capa.JPG" alt="codepain API" width="100%"/>
     <br>
-    Cartão de visita digital gourmetizado
+    Cartão de visita digital 
 </h1>
 
 <p align="center">
@@ -123,7 +123,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=tiagomoi &count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
