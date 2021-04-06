@@ -52,10 +52,10 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 ![App Screenshot](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
 <p align="center">
-  <a href="https://tiagomoi.github.io/VCardeGourmet/" target="_blank">
-    <img alt="Demo on Netlify" src="https://tiagomoi.github.io/VCardeGourmet">
+  <a href="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif" target="_blank">
+    <img alt="Demo on Netlify" src="https://tiagomoi.github.io/VCardeGourmet/">
   </a>
-</p>
+</p>https://github.com/tiagomoi/tiagomoi/blob/main/1.gif
 
 ## :rocket: Technologies
 
