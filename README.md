@@ -1,3 +1,23 @@
+## Hi I'm Tiago <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+
+:mailbox: Reach me out!
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiagomoi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-moises-de-oliveira/)](https://www.linkedin.com/in/tiago-moises-de-oliveira)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/t_0liver4)](https://twitter.com/t_0liver4)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)](https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)
+
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at @Toptal
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: islempenywis@gmail.com.
+- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- ⚡ Fun fact: I play games and go to the GYM very often.
 
 👨🏼‍🏫[Pojeto Pronto](https://tiagomoi.github.io/VCardeGourmet/)
 <h1 align="center">
@@ -33,7 +53,7 @@
 ![App Screenshot](https://github.com/tiagomoi/tiagomoi/blob/main/2.gif)
 <p align="center">
   <a href="https://tiagomoi.github.io/VCardeGourmet/" target="_blank">
-    <img alt="Demo on Netlify" src="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif">
+    <img alt="Demo on Netlify" src="https://tiagomoi.github.io/VCardeGourmet">
   </a>
 </p>
 
@@ -137,12 +157,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/tiagomoi/VCardeGourmet/blob/main/LICENSE) for more information.
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiagomoi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-moises-de-oliveira/)](https://www.linkedin.com/in/tiago-moises-de-oliveira)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/t_0liver4)](https://twitter.com/t_0liver4)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)](https://www.youtube.com/channel/UC1n8J8qWgZgv6CQnmGsoc3w)
-
 
 ---
 
