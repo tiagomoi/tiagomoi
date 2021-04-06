@@ -50,7 +50,7 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
   <a href="#memo-license">License</a>
 </p>
 
-![Demonstração](https://media4.giphy.com/media/ln80sAbbJuHtVwjXVb/source.gif)
+![Demonstração](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdM_gCqUJVaF_aZhcM48RtKZzXA0Uetc8titoRrATI8qN_F-yx-yQTZ6eIrZdGF-0B--K69iN9f-A&usqp=CAU)
 <p align="center" >
   <a href="https://tiagomoi.github.io/VCardeGourmet/" target="_blank">
     <img alt="Demo on Netlify" src="https://media4.giphy.com/media/ln80sAbbJuHtVwjXVb/source.gif" width="48">
