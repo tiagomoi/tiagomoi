@@ -12,7 +12,7 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @ufrn
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: tiagomoises0@gmail.com.
