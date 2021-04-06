@@ -15,7 +15,7 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: tiagomoises0@gmail.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
@@ -23,7 +23,7 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
 <h1 align="center">
     <img src="https://github.com/tiagomoi/tiagomoi/blob/main/capa.JPG" alt="codepain API" width="100%"/>
     <br>
-    Cartão de visita digital 
+    Cartão de visita Digital 
 </h1>
 
 <p align="center">
@@ -50,10 +50,10 @@ I'm Tiago Moises a Full Stack Web Developer and Content Creator on [Youtube](htt
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://tiagomoi.github.io/VCardeGourmet/)
+![App Screenshot](https://tiagomoi.github.io/VCardeGourmet/) 
 <p align="center" >
-  <a href="https://github.com/tiagomoi/tiagomoi/blob/main/1.gif" target="_blank">
-    <img alt="Demo on Netlify" src="https://media4.giphy.com/media/ln80sAbbJuHtVwjXVb/source.gif =50x50">
+  <a href="https://tiagomoi.github.io/VCardeGourmet/" target="_blank">
+    <img alt="Demo on Netlify" src="https://media4.giphy.com/media/ln80sAbbJuHtVwjXVb/source.gif" width="48">
   </a>
 </p>
 
