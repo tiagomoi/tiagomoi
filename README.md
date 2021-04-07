@@ -144,7 +144,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=tiagomoi&count_private=true&theme=tokyonight&hide=contribs,prs)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimetiagomoi)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
